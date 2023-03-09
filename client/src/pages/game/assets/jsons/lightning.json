@@ -1,0 +1,2597 @@
+{
+    "frames": [
+        {
+            "filename": "Lightning_Shiba_Sliding_002",
+            "frame": {
+                "x": 895,
+                "y": 878,
+                "w": 127,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 127,
+                "h": 142
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Sliding_003",
+            "frame": {
+                "x": 1674,
+                "y": 1128,
+                "w": 127,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 127,
+                "h": 142
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Sliding_004",
+            "frame": {
+                "x": 1674,
+                "y": 1271,
+                "w": 127,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 127,
+                "h": 142
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Sliding_005",
+            "frame": {
+                "x": 1674,
+                "y": 1414,
+                "w": 127,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 127,
+                "h": 142
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_000",
+            "frame": {
+                "x": 912,
+                "y": 1327,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_001",
+            "frame": {
+                "x": 1058,
+                "y": 1327,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_002",
+            "frame": {
+                "x": 1204,
+                "y": 1327,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_003",
+            "frame": {
+                "x": 1382,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_004",
+            "frame": {
+                "x": 1382,
+                "y": 164,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_005",
+            "frame": {
+                "x": 1382,
+                "y": 328,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_006",
+            "frame": {
+                "x": 1382,
+                "y": 492,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_007",
+            "frame": {
+                "x": 1382,
+                "y": 656,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_008",
+            "frame": {
+                "x": 1382,
+                "y": 820,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_009",
+            "frame": {
+                "x": 1382,
+                "y": 984,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_010",
+            "frame": {
+                "x": 1382,
+                "y": 1148,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_011",
+            "frame": {
+                "x": 1382,
+                "y": 1312,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_012",
+            "frame": {
+                "x": 0,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_013",
+            "frame": {
+                "x": 146,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_014",
+            "frame": {
+                "x": 292,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_015",
+            "frame": {
+                "x": 438,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_016",
+            "frame": {
+                "x": 584,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_017",
+            "frame": {
+                "x": 730,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_018",
+            "frame": {
+                "x": 876,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_019",
+            "frame": {
+                "x": 1022,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_020",
+            "frame": {
+                "x": 1168,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_021",
+            "frame": {
+                "x": 1314,
+                "y": 1499,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_022",
+            "frame": {
+                "x": 1528,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Walking_023",
+            "frame": {
+                "x": 1528,
+                "y": 164,
+                "w": 145,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 163
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_000",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_001",
+            "frame": {
+                "x": 0,
+                "y": 181,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_002",
+            "frame": {
+                "x": 212,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_003",
+            "frame": {
+                "x": 212,
+                "y": 181,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_004",
+            "frame": {
+                "x": 0,
+                "y": 362,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_005",
+            "frame": {
+                "x": 212,
+                "y": 362,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_006",
+            "frame": {
+                "x": 424,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_007",
+            "frame": {
+                "x": 424,
+                "y": 181,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_008",
+            "frame": {
+                "x": 424,
+                "y": 362,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_009",
+            "frame": {
+                "x": 0,
+                "y": 543,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_010",
+            "frame": {
+                "x": 212,
+                "y": 543,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_011",
+            "frame": {
+                "x": 424,
+                "y": 543,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_012",
+            "frame": {
+                "x": 636,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_013",
+            "frame": {
+                "x": 636,
+                "y": 181,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Dying_014",
+            "frame": {
+                "x": 636,
+                "y": 362,
+                "w": 211,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 180
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_000",
+            "frame": {
+                "x": 636,
+                "y": 543,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_001",
+            "frame": {
+                "x": 0,
+                "y": 724,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_002",
+            "frame": {
+                "x": 182,
+                "y": 724,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_003",
+            "frame": {
+                "x": 364,
+                "y": 724,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_004",
+            "frame": {
+                "x": 546,
+                "y": 724,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_005",
+            "frame": {
+                "x": 848,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_006",
+            "frame": {
+                "x": 848,
+                "y": 154,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_007",
+            "frame": {
+                "x": 848,
+                "y": 308,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_008",
+            "frame": {
+                "x": 848,
+                "y": 462,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_009",
+            "frame": {
+                "x": 848,
+                "y": 616,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_010",
+            "frame": {
+                "x": 0,
+                "y": 878,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Hurt_011",
+            "frame": {
+                "x": 182,
+                "y": 878,
+                "w": 181,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 153
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_000",
+            "frame": {
+                "x": 885,
+                "y": 1032,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_001",
+            "frame": {
+                "x": 1528,
+                "y": 328,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_002",
+            "frame": {
+                "x": 1528,
+                "y": 469,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_003",
+            "frame": {
+                "x": 1528,
+                "y": 610,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_004",
+            "frame": {
+                "x": 1528,
+                "y": 751,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_005",
+            "frame": {
+                "x": 1528,
+                "y": 892,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_006",
+            "frame": {
+                "x": 1528,
+                "y": 1033,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_007",
+            "frame": {
+                "x": 1528,
+                "y": 1174,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_008",
+            "frame": {
+                "x": 1528,
+                "y": 1315,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_009",
+            "frame": {
+                "x": 1528,
+                "y": 1456,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_010",
+            "frame": {
+                "x": 1674,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_011",
+            "frame": {
+                "x": 1674,
+                "y": 141,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_012",
+            "frame": {
+                "x": 1674,
+                "y": 282,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_013",
+            "frame": {
+                "x": 1674,
+                "y": 423,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_014",
+            "frame": {
+                "x": 1674,
+                "y": 564,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_015",
+            "frame": {
+                "x": 1674,
+                "y": 705,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_016",
+            "frame": {
+                "x": 1674,
+                "y": 846,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Idle Blinking_017",
+            "frame": {
+                "x": 1674,
+                "y": 987,
+                "w": 143,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 140
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_000",
+            "frame": {
+                "x": 1050,
+                "y": 1181,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_001",
+            "frame": {
+                "x": 0,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_002",
+            "frame": {
+                "x": 147,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_003",
+            "frame": {
+                "x": 294,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_004",
+            "frame": {
+                "x": 441,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_005",
+            "frame": {
+                "x": 588,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_006",
+            "frame": {
+                "x": 735,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_007",
+            "frame": {
+                "x": 882,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_008",
+            "frame": {
+                "x": 1029,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_009",
+            "frame": {
+                "x": 1176,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_010",
+            "frame": {
+                "x": 1323,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Kicking_011",
+            "frame": {
+                "x": 1470,
+                "y": 1663,
+                "w": 146,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 143
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_000",
+            "frame": {
+                "x": 364,
+                "y": 878,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_001",
+            "frame": {
+                "x": 541,
+                "y": 878,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_002",
+            "frame": {
+                "x": 718,
+                "y": 878,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_003",
+            "frame": {
+                "x": 0,
+                "y": 1032,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_006",
+            "frame": {
+                "x": 177,
+                "y": 1032,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_009",
+            "frame": {
+                "x": 354,
+                "y": 1032,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_011",
+            "frame": {
+                "x": 531,
+                "y": 1032,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_000",
+            "frame": {
+                "x": 1207,
+                "y": 292,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_002",
+            "frame": {
+                "x": 1207,
+                "y": 464,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_001",
+            "frame": {
+                "x": 1207,
+                "y": 636,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_008",
+            "frame": {
+                "x": 708,
+                "y": 1032,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_010",
+            "frame": {
+                "x": 1030,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_007",
+            "frame": {
+                "x": 1030,
+                "y": 149,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_005",
+            "frame": {
+                "x": 1030,
+                "y": 298,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Run Slashing_004",
+            "frame": {
+                "x": 1030,
+                "y": 447,
+                "w": 176,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 176,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 176,
+                "h": 148
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_003",
+            "frame": {
+                "x": 1207,
+                "y": 808,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_004",
+            "frame": {
+                "x": 1207,
+                "y": 980,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_005",
+            "frame": {
+                "x": 1207,
+                "y": 1152,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_006",
+            "frame": {
+                "x": 0,
+                "y": 1327,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_007",
+            "frame": {
+                "x": 152,
+                "y": 1327,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_008",
+            "frame": {
+                "x": 304,
+                "y": 1327,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_009",
+            "frame": {
+                "x": 456,
+                "y": 1327,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_010",
+            "frame": {
+                "x": 608,
+                "y": 1327,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Running_011",
+            "frame": {
+                "x": 760,
+                "y": 1327,
+                "w": 151,
+                "h": 171
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 171
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_000",
+            "frame": {
+                "x": 1030,
+                "y": 596,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_001",
+            "frame": {
+                "x": 1030,
+                "y": 742,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_002",
+            "frame": {
+                "x": 1030,
+                "y": 888,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_003",
+            "frame": {
+                "x": 1030,
+                "y": 1034,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_004",
+            "frame": {
+                "x": 0,
+                "y": 1181,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_005",
+            "frame": {
+                "x": 175,
+                "y": 1181,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_006",
+            "frame": {
+                "x": 350,
+                "y": 1181,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_007",
+            "frame": {
+                "x": 525,
+                "y": 1181,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_008",
+            "frame": {
+                "x": 700,
+                "y": 1181,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_009",
+            "frame": {
+                "x": 875,
+                "y": 1181,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_010",
+            "frame": {
+                "x": 1207,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Slashing_011",
+            "frame": {
+                "x": 1207,
+                "y": 146,
+                "w": 174,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 145
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Sliding_000",
+            "frame": {
+                "x": 1674,
+                "y": 1557,
+                "w": 127,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 127,
+                "h": 142
+            }
+        },
+        {
+            "filename": "Lightning_Shiba_Sliding_001",
+            "frame": {
+                "x": 1818,
+                "y": 0,
+                "w": 127,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 127,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 127,
+                "h": 142
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "lightning",
+        "size": {
+            "w": 1945,
+            "h": 1806
+        },
+        "scale": 1
+    }
+}

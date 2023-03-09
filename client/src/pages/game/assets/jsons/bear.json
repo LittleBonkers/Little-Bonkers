@@ -1,0 +1,4655 @@
+{
+    "frames": [
+        {
+            "filename": "ZombieBear0260",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0259",
+            "frame": {
+                "x": 0,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0258",
+            "frame": {
+                "x": 301,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0257",
+            "frame": {
+                "x": 301,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0256",
+            "frame": {
+                "x": 0,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0255",
+            "frame": {
+                "x": 301,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0254",
+            "frame": {
+                "x": 0,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0253",
+            "frame": {
+                "x": 301,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0252",
+            "frame": {
+                "x": 602,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0251",
+            "frame": {
+                "x": 602,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0250",
+            "frame": {
+                "x": 602,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0249",
+            "frame": {
+                "x": 602,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0248",
+            "frame": {
+                "x": 0,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0247",
+            "frame": {
+                "x": 301,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0246",
+            "frame": {
+                "x": 602,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0245",
+            "frame": {
+                "x": 903,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0244",
+            "frame": {
+                "x": 903,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0243",
+            "frame": {
+                "x": 903,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0242",
+            "frame": {
+                "x": 903,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0241",
+            "frame": {
+                "x": 903,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0240",
+            "frame": {
+                "x": 0,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0239",
+            "frame": {
+                "x": 301,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0238",
+            "frame": {
+                "x": 602,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0237",
+            "frame": {
+                "x": 903,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0236",
+            "frame": {
+                "x": 0,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0235",
+            "frame": {
+                "x": 301,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0234",
+            "frame": {
+                "x": 602,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0233",
+            "frame": {
+                "x": 903,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0232",
+            "frame": {
+                "x": 1204,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0231",
+            "frame": {
+                "x": 1204,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0230",
+            "frame": {
+                "x": 1204,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0229",
+            "frame": {
+                "x": 1204,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0228",
+            "frame": {
+                "x": 1204,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0227",
+            "frame": {
+                "x": 1204,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0226",
+            "frame": {
+                "x": 1204,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0225",
+            "frame": {
+                "x": 0,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0224",
+            "frame": {
+                "x": 301,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0223",
+            "frame": {
+                "x": 602,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0222",
+            "frame": {
+                "x": 903,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0221",
+            "frame": {
+                "x": 1204,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0220",
+            "frame": {
+                "x": 1505,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0219",
+            "frame": {
+                "x": 1505,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0218",
+            "frame": {
+                "x": 1505,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0217",
+            "frame": {
+                "x": 1505,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0216",
+            "frame": {
+                "x": 1505,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0215",
+            "frame": {
+                "x": 1505,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0214",
+            "frame": {
+                "x": 1505,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0213",
+            "frame": {
+                "x": 1505,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0212",
+            "frame": {
+                "x": 0,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0211",
+            "frame": {
+                "x": 301,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0210",
+            "frame": {
+                "x": 602,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0209",
+            "frame": {
+                "x": 903,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0208",
+            "frame": {
+                "x": 1204,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0207",
+            "frame": {
+                "x": 1505,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0206",
+            "frame": {
+                "x": 0,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0205",
+            "frame": {
+                "x": 301,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0204",
+            "frame": {
+                "x": 602,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0203",
+            "frame": {
+                "x": 903,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0202",
+            "frame": {
+                "x": 1204,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0201",
+            "frame": {
+                "x": 1505,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0200",
+            "frame": {
+                "x": 1806,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0199",
+            "frame": {
+                "x": 1806,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0198",
+            "frame": {
+                "x": 1806,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0197",
+            "frame": {
+                "x": 1806,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0196",
+            "frame": {
+                "x": 1806,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0195",
+            "frame": {
+                "x": 1806,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0194",
+            "frame": {
+                "x": 1806,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0193",
+            "frame": {
+                "x": 1806,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0192",
+            "frame": {
+                "x": 1806,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0191",
+            "frame": {
+                "x": 1806,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0190",
+            "frame": {
+                "x": 0,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0189",
+            "frame": {
+                "x": 301,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0188",
+            "frame": {
+                "x": 602,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0187",
+            "frame": {
+                "x": 903,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0186",
+            "frame": {
+                "x": 1204,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0185",
+            "frame": {
+                "x": 1505,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0184",
+            "frame": {
+                "x": 1806,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0183",
+            "frame": {
+                "x": 2107,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0182",
+            "frame": {
+                "x": 2107,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0181",
+            "frame": {
+                "x": 2107,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0180",
+            "frame": {
+                "x": 2107,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0179",
+            "frame": {
+                "x": 2107,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0178",
+            "frame": {
+                "x": 2107,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0177",
+            "frame": {
+                "x": 2107,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0176",
+            "frame": {
+                "x": 2107,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0175",
+            "frame": {
+                "x": 2107,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0174",
+            "frame": {
+                "x": 2107,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0173",
+            "frame": {
+                "x": 2107,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0172",
+            "frame": {
+                "x": 0,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0171",
+            "frame": {
+                "x": 301,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0170",
+            "frame": {
+                "x": 602,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0169",
+            "frame": {
+                "x": 903,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0168",
+            "frame": {
+                "x": 1204,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0167",
+            "frame": {
+                "x": 1505,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0166",
+            "frame": {
+                "x": 1806,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0165",
+            "frame": {
+                "x": 2107,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0164",
+            "frame": {
+                "x": 0,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0163",
+            "frame": {
+                "x": 301,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0162",
+            "frame": {
+                "x": 602,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0161",
+            "frame": {
+                "x": 903,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0115",
+            "frame": {
+                "x": 1204,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0114",
+            "frame": {
+                "x": 1505,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0113",
+            "frame": {
+                "x": 1806,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0112",
+            "frame": {
+                "x": 2107,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0111",
+            "frame": {
+                "x": 2408,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0110",
+            "frame": {
+                "x": 2408,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0109",
+            "frame": {
+                "x": 2408,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0108",
+            "frame": {
+                "x": 2408,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0107",
+            "frame": {
+                "x": 2408,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0106",
+            "frame": {
+                "x": 2408,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0105",
+            "frame": {
+                "x": 2408,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0104",
+            "frame": {
+                "x": 2408,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0103",
+            "frame": {
+                "x": 2408,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0102",
+            "frame": {
+                "x": 2408,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0101",
+            "frame": {
+                "x": 2408,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0100",
+            "frame": {
+                "x": 2408,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0099",
+            "frame": {
+                "x": 2408,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0098",
+            "frame": {
+                "x": 0,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0097",
+            "frame": {
+                "x": 301,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0096",
+            "frame": {
+                "x": 602,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0095",
+            "frame": {
+                "x": 903,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0094",
+            "frame": {
+                "x": 1204,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0093",
+            "frame": {
+                "x": 1505,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0092",
+            "frame": {
+                "x": 1806,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0091",
+            "frame": {
+                "x": 2107,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0090",
+            "frame": {
+                "x": 2408,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0089",
+            "frame": {
+                "x": 2709,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0088",
+            "frame": {
+                "x": 2709,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0087",
+            "frame": {
+                "x": 2709,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0086",
+            "frame": {
+                "x": 2709,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0085",
+            "frame": {
+                "x": 2709,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0084",
+            "frame": {
+                "x": 2709,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0083",
+            "frame": {
+                "x": 2709,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0082",
+            "frame": {
+                "x": 2709,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0081",
+            "frame": {
+                "x": 2709,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0080",
+            "frame": {
+                "x": 2709,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0079",
+            "frame": {
+                "x": 2709,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0078",
+            "frame": {
+                "x": 2709,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0077",
+            "frame": {
+                "x": 2709,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0076",
+            "frame": {
+                "x": 2709,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0075",
+            "frame": {
+                "x": 0,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0074",
+            "frame": {
+                "x": 301,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0073",
+            "frame": {
+                "x": 602,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0072",
+            "frame": {
+                "x": 903,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0071",
+            "frame": {
+                "x": 1204,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0070",
+            "frame": {
+                "x": 1505,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0069",
+            "frame": {
+                "x": 1806,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0068",
+            "frame": {
+                "x": 2107,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0067",
+            "frame": {
+                "x": 2408,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0066",
+            "frame": {
+                "x": 2709,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0065",
+            "frame": {
+                "x": 0,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0064",
+            "frame": {
+                "x": 301,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0063",
+            "frame": {
+                "x": 602,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0062",
+            "frame": {
+                "x": 903,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0061",
+            "frame": {
+                "x": 1204,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0060",
+            "frame": {
+                "x": 1505,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0059",
+            "frame": {
+                "x": 1806,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0058",
+            "frame": {
+                "x": 2107,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0057",
+            "frame": {
+                "x": 2408,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0056",
+            "frame": {
+                "x": 2709,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0055",
+            "frame": {
+                "x": 3010,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0054",
+            "frame": {
+                "x": 3010,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0053",
+            "frame": {
+                "x": 3010,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0052",
+            "frame": {
+                "x": 3010,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0051",
+            "frame": {
+                "x": 3010,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0050",
+            "frame": {
+                "x": 3010,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0049",
+            "frame": {
+                "x": 3010,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0048",
+            "frame": {
+                "x": 3010,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0047",
+            "frame": {
+                "x": 3010,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0046",
+            "frame": {
+                "x": 3010,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0045",
+            "frame": {
+                "x": 3010,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0044",
+            "frame": {
+                "x": 3010,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0043",
+            "frame": {
+                "x": 3010,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0042",
+            "frame": {
+                "x": 3010,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0041",
+            "frame": {
+                "x": 3010,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0040",
+            "frame": {
+                "x": 3010,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0039",
+            "frame": {
+                "x": 0,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0038",
+            "frame": {
+                "x": 301,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0037",
+            "frame": {
+                "x": 602,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0036",
+            "frame": {
+                "x": 903,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0035",
+            "frame": {
+                "x": 1204,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0034",
+            "frame": {
+                "x": 1505,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0033",
+            "frame": {
+                "x": 1806,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0032",
+            "frame": {
+                "x": 2107,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0031",
+            "frame": {
+                "x": 2408,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0030",
+            "frame": {
+                "x": 2709,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0029",
+            "frame": {
+                "x": 3010,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0028",
+            "frame": {
+                "x": 3311,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0027",
+            "frame": {
+                "x": 3311,
+                "y": 201,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0026",
+            "frame": {
+                "x": 3311,
+                "y": 402,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0025",
+            "frame": {
+                "x": 3311,
+                "y": 603,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0024",
+            "frame": {
+                "x": 3311,
+                "y": 804,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0023",
+            "frame": {
+                "x": 3311,
+                "y": 1005,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0022",
+            "frame": {
+                "x": 3311,
+                "y": 1206,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0021",
+            "frame": {
+                "x": 3311,
+                "y": 1407,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0020",
+            "frame": {
+                "x": 3311,
+                "y": 1608,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0019",
+            "frame": {
+                "x": 3311,
+                "y": 1809,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0018",
+            "frame": {
+                "x": 3311,
+                "y": 2010,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0017",
+            "frame": {
+                "x": 3311,
+                "y": 2211,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0016",
+            "frame": {
+                "x": 3311,
+                "y": 2412,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0015",
+            "frame": {
+                "x": 3311,
+                "y": 2613,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0014",
+            "frame": {
+                "x": 3311,
+                "y": 2814,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0013",
+            "frame": {
+                "x": 3311,
+                "y": 3015,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0012",
+            "frame": {
+                "x": 3311,
+                "y": 3216,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0011",
+            "frame": {
+                "x": 0,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0010",
+            "frame": {
+                "x": 301,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0009",
+            "frame": {
+                "x": 602,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0008",
+            "frame": {
+                "x": 903,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0007",
+            "frame": {
+                "x": 1204,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0006",
+            "frame": {
+                "x": 1505,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0005",
+            "frame": {
+                "x": 1806,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0004",
+            "frame": {
+                "x": 2107,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0003",
+            "frame": {
+                "x": 2408,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0002",
+            "frame": {
+                "x": 2709,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0001",
+            "frame": {
+                "x": 3010,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0266",
+            "frame": {
+                "x": 3311,
+                "y": 3417,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0265",
+            "frame": {
+                "x": 0,
+                "y": 3618,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0264",
+            "frame": {
+                "x": 301,
+                "y": 3618,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0263",
+            "frame": {
+                "x": 602,
+                "y": 3618,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0262",
+            "frame": {
+                "x": 903,
+                "y": 3618,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        },
+        {
+            "filename": "ZombieBear0261",
+            "frame": {
+                "x": 1204,
+                "y": 3618,
+                "w": 300,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 200
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "bear.png",
+        "size": {
+            "w": 3611,
+            "h": 3818
+        },
+        "scale": 1
+    }
+}

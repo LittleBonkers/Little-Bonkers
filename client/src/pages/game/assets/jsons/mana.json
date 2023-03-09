@@ -1,0 +1,98 @@
+{
+    "frames": [
+        {
+            "filename": "life0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 497,
+                "h": 280
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 497,
+                "h": 280
+            },
+            "sourceSize": {
+                "w": 497,
+                "h": 280
+            }
+        },
+        {
+            "filename": "life1",
+            "frame": {
+                "x": 0,
+                "y": 281,
+                "w": 497,
+                "h": 280
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 497,
+                "h": 280
+            },
+            "sourceSize": {
+                "w": 497,
+                "h": 280
+            }
+        },
+        {
+            "filename": "life2",
+            "frame": {
+                "x": 0,
+                "y": 562,
+                "w": 497,
+                "h": 280
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 497,
+                "h": 280
+            },
+            "sourceSize": {
+                "w": 497,
+                "h": 280
+            }
+        },
+        {
+            "filename": "life3",
+            "frame": {
+                "x": 498,
+                "y": 0,
+                "w": 497,
+                "h": 280
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 497,
+                "h": 280
+            },
+            "sourceSize": {
+                "w": 497,
+                "h": 280
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "mana.png",
+        "size": {
+            "w": 995,
+            "h": 842
+        },
+        "scale": 1
+    }
+}

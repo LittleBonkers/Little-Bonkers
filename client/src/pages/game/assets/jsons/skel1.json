@@ -1,0 +1,5600 @@
+{
+    "frames": [
+        {
+            "filename": "Skeleton0016",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0017",
+            "frame": {
+                "x": 0,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0018",
+            "frame": {
+                "x": 181,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0019",
+            "frame": {
+                "x": 181,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0020",
+            "frame": {
+                "x": 0,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0021",
+            "frame": {
+                "x": 181,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0022",
+            "frame": {
+                "x": 0,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0023",
+            "frame": {
+                "x": 181,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0024",
+            "frame": {
+                "x": 362,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0025",
+            "frame": {
+                "x": 362,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0026",
+            "frame": {
+                "x": 362,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0027",
+            "frame": {
+                "x": 362,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0028",
+            "frame": {
+                "x": 0,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0029",
+            "frame": {
+                "x": 181,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0030",
+            "frame": {
+                "x": 362,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0031",
+            "frame": {
+                "x": 543,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0032",
+            "frame": {
+                "x": 543,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0033",
+            "frame": {
+                "x": 543,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0034",
+            "frame": {
+                "x": 543,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0035",
+            "frame": {
+                "x": 543,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0036",
+            "frame": {
+                "x": 0,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0037",
+            "frame": {
+                "x": 181,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0038",
+            "frame": {
+                "x": 362,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0039",
+            "frame": {
+                "x": 543,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0040",
+            "frame": {
+                "x": 0,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0041",
+            "frame": {
+                "x": 181,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0042",
+            "frame": {
+                "x": 362,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0043",
+            "frame": {
+                "x": 543,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0044",
+            "frame": {
+                "x": 724,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0045",
+            "frame": {
+                "x": 724,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0046",
+            "frame": {
+                "x": 724,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0047",
+            "frame": {
+                "x": 724,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0048",
+            "frame": {
+                "x": 724,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0049",
+            "frame": {
+                "x": 724,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0050",
+            "frame": {
+                "x": 724,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0051",
+            "frame": {
+                "x": 0,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0052",
+            "frame": {
+                "x": 181,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0053",
+            "frame": {
+                "x": 362,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0054",
+            "frame": {
+                "x": 543,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0055",
+            "frame": {
+                "x": 724,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0056",
+            "frame": {
+                "x": 905,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0057",
+            "frame": {
+                "x": 905,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0058",
+            "frame": {
+                "x": 905,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0059",
+            "frame": {
+                "x": 905,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0060",
+            "frame": {
+                "x": 905,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0061",
+            "frame": {
+                "x": 905,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0062",
+            "frame": {
+                "x": 905,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0063",
+            "frame": {
+                "x": 905,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0064",
+            "frame": {
+                "x": 0,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0065",
+            "frame": {
+                "x": 181,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0066",
+            "frame": {
+                "x": 362,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0067",
+            "frame": {
+                "x": 543,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0068",
+            "frame": {
+                "x": 724,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0069",
+            "frame": {
+                "x": 905,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0070",
+            "frame": {
+                "x": 0,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0071",
+            "frame": {
+                "x": 181,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0072",
+            "frame": {
+                "x": 362,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0073",
+            "frame": {
+                "x": 543,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0074",
+            "frame": {
+                "x": 724,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0075",
+            "frame": {
+                "x": 905,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0076",
+            "frame": {
+                "x": 1086,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0077",
+            "frame": {
+                "x": 1086,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0078",
+            "frame": {
+                "x": 1086,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0079",
+            "frame": {
+                "x": 1086,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0080",
+            "frame": {
+                "x": 1086,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0081",
+            "frame": {
+                "x": 1086,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0082",
+            "frame": {
+                "x": 1086,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0083",
+            "frame": {
+                "x": 1086,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0084",
+            "frame": {
+                "x": 1086,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0085",
+            "frame": {
+                "x": 1086,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0086",
+            "frame": {
+                "x": 0,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0087",
+            "frame": {
+                "x": 181,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0088",
+            "frame": {
+                "x": 362,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0089",
+            "frame": {
+                "x": 543,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0090",
+            "frame": {
+                "x": 724,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0091",
+            "frame": {
+                "x": 905,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0092",
+            "frame": {
+                "x": 1086,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0093",
+            "frame": {
+                "x": 1267,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0094",
+            "frame": {
+                "x": 1267,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0095",
+            "frame": {
+                "x": 1267,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0096",
+            "frame": {
+                "x": 1267,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0097",
+            "frame": {
+                "x": 1267,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0098",
+            "frame": {
+                "x": 1267,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0099",
+            "frame": {
+                "x": 1267,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0100",
+            "frame": {
+                "x": 1267,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0101",
+            "frame": {
+                "x": 1267,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0102",
+            "frame": {
+                "x": 1267,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0103",
+            "frame": {
+                "x": 1267,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0104",
+            "frame": {
+                "x": 0,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0105",
+            "frame": {
+                "x": 181,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0106",
+            "frame": {
+                "x": 362,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0107",
+            "frame": {
+                "x": 543,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0108",
+            "frame": {
+                "x": 724,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0109",
+            "frame": {
+                "x": 905,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0110",
+            "frame": {
+                "x": 1086,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0111",
+            "frame": {
+                "x": 1267,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0112",
+            "frame": {
+                "x": 0,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0113",
+            "frame": {
+                "x": 181,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0114",
+            "frame": {
+                "x": 362,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0115",
+            "frame": {
+                "x": 543,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0116",
+            "frame": {
+                "x": 724,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0117",
+            "frame": {
+                "x": 905,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0118",
+            "frame": {
+                "x": 1086,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0119",
+            "frame": {
+                "x": 1267,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0120",
+            "frame": {
+                "x": 1448,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0121",
+            "frame": {
+                "x": 1448,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0122",
+            "frame": {
+                "x": 1448,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0123",
+            "frame": {
+                "x": 1448,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0124",
+            "frame": {
+                "x": 1448,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0125",
+            "frame": {
+                "x": 1448,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0126",
+            "frame": {
+                "x": 1448,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0127",
+            "frame": {
+                "x": 1448,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0128",
+            "frame": {
+                "x": 1448,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0129",
+            "frame": {
+                "x": 1448,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0130",
+            "frame": {
+                "x": 1448,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0131",
+            "frame": {
+                "x": 1448,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0132",
+            "frame": {
+                "x": 1448,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0133",
+            "frame": {
+                "x": 0,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0134",
+            "frame": {
+                "x": 181,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0135",
+            "frame": {
+                "x": 362,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0136",
+            "frame": {
+                "x": 543,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0137",
+            "frame": {
+                "x": 724,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0138",
+            "frame": {
+                "x": 905,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0139",
+            "frame": {
+                "x": 1086,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0140",
+            "frame": {
+                "x": 1267,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0141",
+            "frame": {
+                "x": 1448,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0142",
+            "frame": {
+                "x": 1629,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0143",
+            "frame": {
+                "x": 1629,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0144",
+            "frame": {
+                "x": 1629,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0145",
+            "frame": {
+                "x": 1629,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0146",
+            "frame": {
+                "x": 1629,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0147",
+            "frame": {
+                "x": 1629,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0148",
+            "frame": {
+                "x": 1629,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0149",
+            "frame": {
+                "x": 1629,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0150",
+            "frame": {
+                "x": 1629,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0151",
+            "frame": {
+                "x": 1629,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0152",
+            "frame": {
+                "x": 1629,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0153",
+            "frame": {
+                "x": 1629,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0154",
+            "frame": {
+                "x": 1629,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0155",
+            "frame": {
+                "x": 1629,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0156",
+            "frame": {
+                "x": 0,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0157",
+            "frame": {
+                "x": 181,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0158",
+            "frame": {
+                "x": 362,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0159",
+            "frame": {
+                "x": 543,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0160",
+            "frame": {
+                "x": 724,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0161",
+            "frame": {
+                "x": 905,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0162",
+            "frame": {
+                "x": 1086,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0163",
+            "frame": {
+                "x": 1267,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0164",
+            "frame": {
+                "x": 1448,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0165",
+            "frame": {
+                "x": 1629,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0166",
+            "frame": {
+                "x": 0,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0167",
+            "frame": {
+                "x": 181,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0168",
+            "frame": {
+                "x": 362,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0169",
+            "frame": {
+                "x": 543,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0170",
+            "frame": {
+                "x": 724,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0171",
+            "frame": {
+                "x": 905,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0172",
+            "frame": {
+                "x": 1086,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0173",
+            "frame": {
+                "x": 1267,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0174",
+            "frame": {
+                "x": 1448,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0175",
+            "frame": {
+                "x": 1629,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0176",
+            "frame": {
+                "x": 1810,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0177",
+            "frame": {
+                "x": 1810,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0178",
+            "frame": {
+                "x": 1810,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0179",
+            "frame": {
+                "x": 1810,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0180",
+            "frame": {
+                "x": 1810,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0181",
+            "frame": {
+                "x": 1810,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0182",
+            "frame": {
+                "x": 1810,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0183",
+            "frame": {
+                "x": 1810,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0184",
+            "frame": {
+                "x": 1810,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0185",
+            "frame": {
+                "x": 1810,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0186",
+            "frame": {
+                "x": 1810,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0187",
+            "frame": {
+                "x": 1810,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0188",
+            "frame": {
+                "x": 1810,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0189",
+            "frame": {
+                "x": 1810,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0190",
+            "frame": {
+                "x": 1810,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0191",
+            "frame": {
+                "x": 1810,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0192",
+            "frame": {
+                "x": 0,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0193",
+            "frame": {
+                "x": 181,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0194",
+            "frame": {
+                "x": 362,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0195",
+            "frame": {
+                "x": 543,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0196",
+            "frame": {
+                "x": 724,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0197",
+            "frame": {
+                "x": 905,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0198",
+            "frame": {
+                "x": 1086,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0199",
+            "frame": {
+                "x": 1267,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0200",
+            "frame": {
+                "x": 1448,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0201",
+            "frame": {
+                "x": 1629,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0202",
+            "frame": {
+                "x": 1810,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0203",
+            "frame": {
+                "x": 1991,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0204",
+            "frame": {
+                "x": 1991,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0205",
+            "frame": {
+                "x": 1991,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0206",
+            "frame": {
+                "x": 1991,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0207",
+            "frame": {
+                "x": 1991,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0208",
+            "frame": {
+                "x": 1991,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0209",
+            "frame": {
+                "x": 1991,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0210",
+            "frame": {
+                "x": 1991,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0211",
+            "frame": {
+                "x": 1991,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0212",
+            "frame": {
+                "x": 1991,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0213",
+            "frame": {
+                "x": 1991,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0214",
+            "frame": {
+                "x": 1991,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0215",
+            "frame": {
+                "x": 1991,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0216",
+            "frame": {
+                "x": 1991,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0217",
+            "frame": {
+                "x": 1991,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0218",
+            "frame": {
+                "x": 1991,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0219",
+            "frame": {
+                "x": 1991,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0220",
+            "frame": {
+                "x": 0,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0221",
+            "frame": {
+                "x": 181,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0222",
+            "frame": {
+                "x": 362,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0223",
+            "frame": {
+                "x": 543,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0224",
+            "frame": {
+                "x": 724,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0225",
+            "frame": {
+                "x": 905,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0226",
+            "frame": {
+                "x": 1086,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0227",
+            "frame": {
+                "x": 1267,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0228",
+            "frame": {
+                "x": 1448,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0229",
+            "frame": {
+                "x": 1629,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0230",
+            "frame": {
+                "x": 1810,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0231",
+            "frame": {
+                "x": 1991,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0232",
+            "frame": {
+                "x": 0,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0233",
+            "frame": {
+                "x": 181,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0234",
+            "frame": {
+                "x": 362,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0235",
+            "frame": {
+                "x": 543,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0236",
+            "frame": {
+                "x": 724,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0237",
+            "frame": {
+                "x": 905,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0238",
+            "frame": {
+                "x": 1086,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0239",
+            "frame": {
+                "x": 1267,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0240",
+            "frame": {
+                "x": 1448,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0241",
+            "frame": {
+                "x": 1629,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0242",
+            "frame": {
+                "x": 1810,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0243",
+            "frame": {
+                "x": 1991,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0244",
+            "frame": {
+                "x": 2172,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0245",
+            "frame": {
+                "x": 2172,
+                "y": 121,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0246",
+            "frame": {
+                "x": 2172,
+                "y": 242,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0247",
+            "frame": {
+                "x": 2172,
+                "y": 363,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0248",
+            "frame": {
+                "x": 2172,
+                "y": 484,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0249",
+            "frame": {
+                "x": 2172,
+                "y": 605,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0250",
+            "frame": {
+                "x": 2172,
+                "y": 726,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0251",
+            "frame": {
+                "x": 2172,
+                "y": 847,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0252",
+            "frame": {
+                "x": 2172,
+                "y": 968,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0253",
+            "frame": {
+                "x": 2172,
+                "y": 1089,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0254",
+            "frame": {
+                "x": 2172,
+                "y": 1210,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0255",
+            "frame": {
+                "x": 2172,
+                "y": 1331,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0256",
+            "frame": {
+                "x": 2172,
+                "y": 1452,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0257",
+            "frame": {
+                "x": 2172,
+                "y": 1573,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0258",
+            "frame": {
+                "x": 2172,
+                "y": 1694,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0259",
+            "frame": {
+                "x": 2172,
+                "y": 1815,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0260",
+            "frame": {
+                "x": 2172,
+                "y": 1936,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0261",
+            "frame": {
+                "x": 2172,
+                "y": 2057,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0262",
+            "frame": {
+                "x": 2172,
+                "y": 2178,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0263",
+            "frame": {
+                "x": 0,
+                "y": 2299,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0264",
+            "frame": {
+                "x": 181,
+                "y": 2299,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0265",
+            "frame": {
+                "x": 362,
+                "y": 2299,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0266",
+            "frame": {
+                "x": 543,
+                "y": 2299,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0001",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0002",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0003",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0004",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0005",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0006",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0007",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0008",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0009",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0010",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0011",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0012",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0013",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0014",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        },
+        {
+            "filename": "Skeleton0015",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 120
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "skel1.png",
+        "size": {
+            "w": 2352,
+            "h": 2419
+        },
+        "scale": 1
+    }
+}
