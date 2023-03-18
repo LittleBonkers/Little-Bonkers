@@ -31,14 +31,15 @@ Steps to Install:
 Clone the repository to your local machine using the command:
 bash
 Copy code
-git clone https://github.com/LittleBonkers/Little-Bonkers.git
+`git clone https://github.com/LittleBonkers/Little-Bonkers.git`
+
 Navigate to the project directory using the command:
 bash
 Copy code
-cd Little-Bonkers
+```cd Little-Bonkers```
 Install the dependencies by running the following command:
 Copy code
-npm install
+```npm install```
 Rename the .env.example file to .env and update the values of the variables accordingly.
 
 Start the application using the following command:
