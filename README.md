@@ -34,18 +34,20 @@ Clone the repository to your local machine using the command:
     git clone https://github.com/LittleBonkers/Little-Bonkers.git
 
 Navigate to the project directory using the command:
-bash
-Copy code
-```cd Little-Bonkers```
+
+    cd Little-Bonkers
+
 Install the dependencies by running the following command:
-Copy code
-```npm install```
+
+    npm install
+
 Rename the .env.example file to .env and update the values of the variables accordingly.
 
 Start the application using the following command:
 
-sql
-Copy code
-npm start
+    sql
+    npm start
+    
 The application will be accessible at http://localhost:3000.
-That's it! You should now be able to run the Little Bonkers application on your local machine. If you encounter any issues, please refer to the README file of the project or raise an issue on the project's GitHub repository.
+
+That's it! You should now be able to run the Little Bonkers application on your local machine. If you encounter any issues, please feel free to reach out on twitter.
