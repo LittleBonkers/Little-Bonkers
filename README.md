@@ -40,6 +40,8 @@ Within the game, there are four competing factions, four schools of magic, each 
 ## Proof of Play
 Since we need to constantly be refilling our game's wallet with Bonks for players to continue earning, we needed a sustainable way of achieving this. That's why we've come up with Proof of Play. Proof of play just means that we are tokenizing validator nodes that are processing the blockchain transactions and restricting playing to holders.
 
+![Proof of Play](https://cdn.discordapp.com/attachments/1040108482470354984/1086736226524074066/WhatsApp_Image_2023-03-14_at_16.34.25.jpeg)
+
 Play Little Bonkers today and join us on our mission to bring gaming and the Solana ecosystem together!
 
 # Prerequisites:
