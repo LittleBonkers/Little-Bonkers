@@ -27,6 +27,8 @@ Did you know that by 2024 the mobile gaming market is projected to reach a stagg
 
 Little Bonkers is a beat 'em up style game inspired by arcade classics like Golden Axe and Captain Commando. In it, players explore the Solana ecosystem and its different communities through storytelling. After a short tutorial where the player is shown the controls and other basics, the game begins with Peeblo, a sets of correct fame arriving badly wounded and asking the Little Bonkers to deliver a desperately needed bottle of milk. The player is then thrust into a spooky forest where they are attacked by vicious zombie and skeletal OK bears.
 
+![Gameplay](https://cdn.discordapp.com/attachments/1040108482470354984/1086743227111063622/gameplay.png)
+
 ## Mobile First Approach
 We believe a mobile-first approach is key for adoption and to quickly grow the player base. In order to play, users need only to open their wallet browsers and begin playing right in their wallets. This makes it easy to send rewards and get analytics from the players. As the player advances, defeated enemies allow the player to earn Bonk and any other Solana program library tokens such as Dust and USDC. We chose to use Bonk as our main reward token as it's easily transportable to other platforms and there is a large supply of it available.
 
