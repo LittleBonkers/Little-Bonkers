@@ -13,6 +13,9 @@ We believe a mobile-first approach is key for adoption and to quickly grow the p
 Throughout the game, we see references to important players of the Solana community. For example, a Lieutenant Lollipop encourages you to continue every time you defeat all the enemies and can move forward. Skilled users will be able to progress to the end of the level where they meet the game's first boss, none other than King Fudd from Twitter fame. If the boss is beaten, the player is greeted by a Sprite of Solana's Raj Gokal, who then takes the player for a wild bull ride.
 
 ## Reward System
+
+!(https://imgur.com/a/ANY7BOC)
+
 When the mission is completed, the player is rewarded with a whitelist token along with the Bonk and other SPL tokens that they've collected throughout the level. Currently, over 100 players have earned their tokens with only about a quarter of them listing for sale. Using Hello Moon's powerful analytics SDK, we can track how many tokens the game has issued. The kind folks over at Hello Moon even built an endpoint specifically for this competition so we would be able to check what other collections and communities overlap with our own tokens. Having detailed knowledge as to who has what tokens and why allows us to tell intricate stories that weave reality with the game's lore.
 
 ## Factions and Gemstones
