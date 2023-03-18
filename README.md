@@ -30,9 +30,8 @@ Node.js and npm should be installed on your machine.
 Steps to Install:
 
 Clone the repository to your local machine using the command:
-bash
-Copy code
-`git clone https://github.com/LittleBonkers/Little-Bonkers.git`
+
+    git clone https://github.com/LittleBonkers/Little-Bonkers.git
 
 Navigate to the project directory using the command:
 bash
