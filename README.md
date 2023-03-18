@@ -9,7 +9,7 @@
 https://littlebonkers.xyz
 
 
-### Game
+### Game (Play free now!)
 
 https://play.littlebonkers.xyz
 
