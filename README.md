@@ -14,7 +14,7 @@ Throughout the game, we see references to important players of the Solana commun
 
 ## Reward System
 
-!(https://imgur.com/a/ANY7BOC)
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp9xcZHoDZVG8Z69BJPkSadZwrOQg-NBZvqZliUXDwQ&s)
 
 When the mission is completed, the player is rewarded with a whitelist token along with the Bonk and other SPL tokens that they've collected throughout the level. Currently, over 100 players have earned their tokens with only about a quarter of them listing for sale. Using Hello Moon's powerful analytics SDK, we can track how many tokens the game has issued. The kind folks over at Hello Moon even built an endpoint specifically for this competition so we would be able to check what other collections and communities overlap with our own tokens. Having detailed knowledge as to who has what tokens and why allows us to tell intricate stories that weave reality with the game's lore.
 
