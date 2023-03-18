@@ -22,3 +22,29 @@ Within the game, there are four competing factions, four schools of magic, each 
 Since we need to constantly be refilling our game's wallet with Bonks for players to continue earning, we needed a sustainable way of achieving this. That's why we've come up with Proof of Play. Proof of play just means that we are tokenizing validator nodes that are processing the blockchain transactions and restricting playing to holders.
 
 Play Little Bonkers today and join us on our mission to bring gaming and the Solana ecosystem together!
+
+Prerequisites:
+
+Node.js and npm should be installed on your machine.
+Steps to Install:
+
+Clone the repository to your local machine using the command:
+bash
+Copy code
+git clone https://github.com/LittleBonkers/Little-Bonkers.git
+Navigate to the project directory using the command:
+bash
+Copy code
+cd Little-Bonkers
+Install the dependencies by running the following command:
+Copy code
+npm install
+Rename the .env.example file to .env and update the values of the variables accordingly.
+
+Start the application using the following command:
+
+sql
+Copy code
+npm start
+The application will be accessible at http://localhost:3000.
+That's it! You should now be able to run the Little Bonkers application on your local machine. If you encounter any issues, please refer to the README file of the project or raise an issue on the project's GitHub repository.
