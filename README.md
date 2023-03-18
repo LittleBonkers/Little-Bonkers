@@ -54,7 +54,13 @@ Since we need to constantly be refilling our game's wallet with Bonks for player
 
 Play Little Bonkers today and join us on our mission to bring gaming and the Solana ecosystem together!
 
-# Prerequisites:
+# Client install instructions. 
+
+You don't need to install the client to play. To play, just go to https://play.littlebonkers.xyz
+
+If you want to run a copy of the client just to test it or explore it, you can do so following the these instructions.
+
+## Prerequisites:
 
 Node.js and npm should be installed on your machine.
 Steps to Install:
