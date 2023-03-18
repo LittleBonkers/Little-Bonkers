@@ -58,7 +58,7 @@ Play Little Bonkers today and join us on our mission to bring gaming and the Sol
 
 # Client install instructions. 
 
-You don't need to install the client to play. To play, just go to https://play.littlebonkers.xyz
+You don't need to install the client to play. To play, just go to https://play.littlebonkers.xyz from inside your Phantom Wallet.
 
 If you want to run a copy of the client just to test it or explore it, you can do so following the these instructions.
 
