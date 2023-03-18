@@ -26,6 +26,8 @@ Little Bonkers is a beat 'em up style game inspired by arcade classics like Gold
 ## Mobile First Approach
 We believe a mobile-first approach is key for adoption and to quickly grow the player base. In order to play, users need only to open their wallet browsers and begin playing right in their wallets. This makes it easy to send rewards and get analytics from the players. As the player advances, defeated enemies allow the player to earn Bonk and any other Solana program library tokens such as Dust and USDC. We chose to use Bonk as our main reward token as it's easily transportable to other platforms and there is a large supply of it available.
 
+![Mobile First](https://cdn.discordapp.com/attachments/1040108482470354984/1086737621360853062/20230318_134637.jpg)
+
 ## Solana Community References
 Throughout the game, we see references to important players of the Solana community. For example, a Lieutenant Lollipop encourages you to continue every time you defeat all the enemies and can move forward. Skilled users will be able to progress to the end of the level where they meet the game's first boss, none other than King Fudd from Twitter fame. If the boss is beaten, the player is greeted by a Sprite of Solana's Raj Gokal, who then takes the player for a wild bull ride.
 
