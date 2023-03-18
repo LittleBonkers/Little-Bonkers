@@ -45,6 +45,8 @@ When the mission is completed, the player is rewarded with a whitelist token alo
 
 Within the game, there are four competing factions, four schools of magic, each embodied by a mesmerizing gemstone. Using on-chain analytics, many game mechanics can be devised that will allow us to leverage the social interactions between these four different communities and others from outside the game to maximize engagement. This enables us to create an engaging decentralized social game find platform where users can explore web3 and the broader Solana community. By doing so, we aim to increase the number of daily active recurring users on the platform.
 
+![Little Bonkers Attacking](https://cdn.discordapp.com/attachments/1040108482470354984/1086738650596905133/WhatsApp_Image_2023-02-11_at_01.06.42.jpeg)
+
 ## Proof of Play
 Since we need to constantly be refilling our game's wallet with Bonks for players to continue earning, we needed a sustainable way of achieving this. That's why we've come up with Proof of Play. Proof of play just means that we are tokenizing validator nodes that are processing the blockchain transactions and restricting playing to holders.
 
